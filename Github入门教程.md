@@ -52,7 +52,7 @@ categories: 学习
 *   项目管理板块Projects
 
     这里你可以描述有关项目的细节，如：拉去请求，注释，议题
-<img src="https://gitee.com/liuminchao7/img/raw/master/Github%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/20200625215227598.png" alt="在这里插入图片描述"  />
+    <img src="https://gitee.com/liuminchao7/img/raw/master/Github%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/20200625215227598.png" alt="在这里插入图片描述"  />
     我暂时还没用到……
 
 
@@ -285,8 +285,3 @@ C:\Windows\System32\drivers\etc
 [访问慢的另一种解决方案](https://github.com/sLxiaosheng/First_Repository)
 
 
-
-### 外记
-端午节，和我爸喝了点酒（5瓶），酒醒后，改了改文章
-如有错误的地方，还望指正
-谢谢大家！！！
